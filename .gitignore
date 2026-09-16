@@ -1,0 +1,8 @@
+# Mac
+.DS_Store
+
+# Obsidian
+*.excalidraw.md.bak
+
+# Logs
+*.log
