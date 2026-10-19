@@ -68,3 +68,9 @@ Variables à vérifier à chaque mise en ligne :
 - Données personnelles : prénom + e-mail uniquement, via MailerLite (voir `confidentialite.html`).
 - Les fichiers sources (PDF haute résolution, illustrations d'origine) ne sont **pas** dans ce dépôt : livraison via la boutique Payhip uniquement.
 - Pages légales à compléter AVANT mise en production.
+
+## Licence
+
+Tous droits réservés — aucun droit accordé au-delà de la loi ; toute utilisation demande une autorisation écrite.
+
+Voir `LICENSE`. © 2026 Josué Konan.
